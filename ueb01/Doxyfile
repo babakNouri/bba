@@ -1,0 +1,10 @@
+# Doxyfile 1.8.6
+PROJECT_NAME           = "Übung BBA"
+OUTPUT_DIRECTORY       = doc
+OUTPUT_LANGUAGE        = German
+EXTRACT_STATIC         = YES
+FILE_PATTERNS          = *.cpp *.hpp
+RECURSIVE              = YES
+GENERATE_LATEX         = NO
+HAVE_DOT               = YES
+DOT_IMAGE_FORMAT       = svg
